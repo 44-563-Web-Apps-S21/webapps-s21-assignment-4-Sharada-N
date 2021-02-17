@@ -1,0 +1,35 @@
+.speech
+{
+    font-family: cursive;
+    font-size: medium;
+    color: black;
+}
+.stage-direction{
+    font-size: medium;
+    font-family: monospace;
+    color: black;
+    background-color: cornsilk;
+}
+
+.name{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.stage-direction:hover
+{
+    color: red;
+    background-color: rgb(231, 215, 195);
+}
+.petruchio
+{
+    color: violet;
+}
+.katharina
+{
+    color: palevioletred;
+}
+.hortensio
+{
+    color: purple;
+}
