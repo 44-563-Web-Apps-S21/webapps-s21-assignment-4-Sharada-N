@@ -33,3 +33,12 @@
 {
     color: purple;
 }
+
+table
+{
+    border-style: dashed;
+    color: crimson;
+    padding: 8mm;
+    text-align: center;
+    margin: 5mm;
+}
