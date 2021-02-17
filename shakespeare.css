@@ -42,3 +42,10 @@ table
     text-align: center;
     margin: 5mm;
 }
+.name:hover
+{
+    text-shadow: 0 0 5px rgba(153, 9, 9, 0.5);
+    border:lightpink;
+    border-style: groove;
+    
+}
